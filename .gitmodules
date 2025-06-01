@@ -1,0 +1,3 @@
+[submodule "movie-tv-show-db"]
+	path = movie-tv-show-db
+	url = https://github.com/TanvirRishad/Movie-TV-Show-Database
