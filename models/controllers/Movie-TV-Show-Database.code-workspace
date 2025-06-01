@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../Movie-TV-Show-Database"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../views"
+		}
+	],
+	"settings": {}
+}
